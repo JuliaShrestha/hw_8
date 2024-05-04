@@ -1,0 +1,172 @@
+:root {
+    --accent-color: #46A358;
+    --secondary-color: #727272;
+    --bg-secondary-color: #FBFBFB;
+}
+
+.container-1 {
+    display: flex;
+}
+
+.block-1 {
+    width: 600px;
+    height: 245px;
+    background-color: var(--bg-secondary-color);
+    margin-top: 100px;
+    padding-right: 25px;
+    padding-top: 35px;
+    margin-left: 400px;
+
+}
+
+.h1 {
+    font-family: Cera Pro, sans-serif;
+    font-size: 18px;
+    font-weight: 900;
+    text-align: right;
+    text-transform: uppercase;
+    margin-left: 200px;
+    margin-bottom: 10px;
+    line-height: 25px;
+
+}
+
+.description {
+    font-family: Cera Pro, sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: right;
+    color: var(--secondary-color);
+}
+
+.image1 {
+    margin-top: -255px;
+}
+
+.find-more {
+    background-color: var(--accent-color);
+    width: 140px;
+    height: 40px;
+    border-radius: 5px;
+    color: white;
+    margin-left: 435px;
+    margin-top: 20px;
+    font-family: Cera Pro, sans-serif;
+
+}
+
+svg {
+    margin-left: 5px;}
+
+.block-2 {
+    margin-top: 100px;
+    width: 600px;
+    height: 245px;
+    background-color: var(--bg-secondary-color);
+    padding-right: 25px;
+    padding-top: 35px;
+    margin-left: 30px;
+}
+
+.container-2{
+    display: flex;
+}
+
+.h2{
+    font-family: Cera Pro, sans-serif;
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 16px;
+    text-align: center;
+    margin-top: 160px;
+}
+
+.main-description {
+    font-family: Cera Pro, sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: center;
+    color: var(--secondary-color);
+    margin-top: 17px;
+    margin-bottom: 30px;
+}
+
+.block-3 {
+    background-color: var(--bg-secondary-color);
+    height: 380px;
+    width: 260px;
+    margin-left: 400px;
+    margin-right: 60px;
+}
+
+.block-4{
+    background-color: var(--bg-secondary-color);
+    height: 380px;
+    width: 260px;
+    margin-right: 60px;
+}
+
+.block-5{
+    background-color: var(--bg-secondary-color);
+    height: 380px;
+    width: 260px;
+    margin-right: 60px;
+}
+
+.block-6 {
+    background-color: var(--bg-secondary-color);
+    height: 380px;
+    width: 260px;
+}
+
+.inscription {
+    font-family: Cera Pro, sans-serif;
+    font-size: 14px;
+    font-weight: 700;
+    margin-left: 15px;
+    margin-top: 8px;
+    color: var(--accent-color);
+
+}
+
+.name {
+    font-family: Cera Pro, sans-serif;
+    font-size: 20px;
+    font-weight: 700;
+    margin-left: 15px;
+    margin-top: 10px;
+    line-height: 26px;
+
+}
+
+.description-2 {
+    font-family: Cera Pro, sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    color: var(--secondary-color);
+    margin-left: 15px;
+    margin-top: 10px;
+    line-height: 22px;
+}
+
+.read-more {
+    margin-left: 15px;
+    margin-top: 10px;
+    background-color: var(--bg-secondary-color);
+    font-family: Cera Pro, sans-serif;
+    font-size: 14px;
+    font-weight: 500;
+
+}
+
+.read-more-active {
+    color: var(--accent-color);
+    background-color: var(--bg-secondary-color);
+    margin-left: 15px;
+    margin-top: 10px;
+    font-family: Cera Pro, sans-serif;
+    font-size: 14px;
+    font-weight: 500;
+}
